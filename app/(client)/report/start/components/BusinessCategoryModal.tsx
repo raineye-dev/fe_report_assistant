@@ -172,7 +172,7 @@ const businessCategories = [
     id: "public-urban-infrastructure",
     title: "공공·도시·인프라",
     description:
-      "도시 발전과 사회인프라 개선을 위한 분석과 대안을 제시합니다.",
+      "도시 발전과 사회 인프라 개선을 위한 분석과 대안을 제시합니다.",
     icon: CityIcon,
   },
   {
