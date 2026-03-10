@@ -355,10 +355,9 @@ export default function Home() {
         </div>
 
         <div className="absolute bottom-[32px] right-[92px] text-right text-base font-normal leading-[160%] text-[#A6A6A6]">
-          대표자명 : 홍길동 사업자등록번호 : 123-12-12345 주소 : 서울시 강남구
-          테헤란로 123
+          대표자명 : 강경철 사업자등록번호 : 411-81-85095 주소 : 전남 나주시 우정로10, 게토333 C-나동217
           <br />
-          대표전화 : 02-123-1234 이메일 : absd123@anchor.com
+          대표전화 : 061-277-6797 이메일 : reportai@daum.net
         </div>
       </footer>
     </>
